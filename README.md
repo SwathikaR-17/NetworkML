@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # NetworkML - Network Intrusion Detection System
 
@@ -45,3 +46,6 @@ NetworkML is a machine learning-based network intrusion detection project design
 - Add real-time network traffic monitoring
 - Enhance model performance
 - Integrate an interactive dashboard
+=======
+# NetworkML
+>>>>>>> b1d51aba75c3c96c3e3d3a235c5e8c1199db2b19
